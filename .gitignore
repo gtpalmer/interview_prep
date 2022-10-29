@@ -1,0 +1,4 @@
+bazel-bin
+bazel-out
+bazel-interview_prep
+bazel-testlogs
